@@ -1,3 +1,3 @@
 # appium-testng-legacy
 
-Created own appium testng legacu script based on other testng farmework
+Created a sample appium testng legacy script
